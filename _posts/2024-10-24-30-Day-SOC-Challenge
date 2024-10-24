@@ -1,0 +1,15 @@
+---
+layout: post
+title: 30 Day SOC Challenge 
+subtitle: Part 1
+author: Pierce Chin
+---
+
+I am documenting my completion of the [30 Day SOC Challenge](https://www.youtube.com/watch?v=W3ExS2m6B24&list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6) posted by the [MyDFIR](http://www.youtube.com/@MyDFIR) YouTube Channel. The challenge was created to provide relevant experience to individuals seeking to obtain a SOC Analyst role. I will do my best to document the steps I took throughout. I am going to break the challenge up into parts. All of the servers were created in Vultr Cloud Platform.
+
+The network diagram shows all of the servers that will be created, their function and location. 
+
+To begin, I created a Virtual Private Cloud (VPC) by navgiating to Products, clicking on Metwork dropdown and selecting VPC 2.0. Click on the blue Add VPC 2.0 Network.
+
+![Add VPC 2.0 Network](https://github.com/PierceChin/PierceChin.github.io/blob/master/assets/img/Add%20VPC%202-0%20Network.png)
+
